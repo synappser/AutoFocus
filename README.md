@@ -1,3 +1,7 @@
+[**Please take part in the poll I started on Reddit macOS to choose a new name for AutoRaise!**](https://www.reddit.com/r/MacOS/comments/w9digq/help_me_find_a_new_name_for_autoraise/)
+
+For more context see https://github.com/synappser/AutoRaise/issues/8
+
 <img src="https://synappser.github.io/images/apps/autoraise.png" alt="Logo" width="128" />
 
 
