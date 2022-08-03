@@ -1,15 +1,15 @@
-[**Please take part in the poll I started on Reddit macOS to choose a new name for AutoRaise!**](https://www.reddit.com/r/MacOS/comments/w9digq/help_me_find_a_new_name_for_autoraise/)
+[The poll has spoken, **AutoFocus** wins with 4 votes ahead of RiseUp!](https://www.reddit.com/r/MacOS/comments/w9digq/help_me_find_a_new_name_for_autoraise/)
 
 For more context see https://github.com/synappser/AutoRaise/issues/8
 
 <img src="https://synappser.github.io/images/apps/autoraise.png" alt="Logo" width="128" />
 
 
-# AutoRaise
+# AutoFocus
 
 **A focus-follows-mouse implementation on steroids!**
 
-**AutoRaise** takes its name and inspiration from the discontinued **Zooom/2** [Auto Raise](https://img.informer.com/screenshots_mac/19/19146_1.png) feature and extends it with a very powerful and flexible workflow in a modern modular Swift codebase.
+**AutoFocus**, formerly named AutoRaise, takes its inspiration from the discontinued **Zooom/2** [Auto Raise](https://img.informer.com/screenshots_mac/19/19146_1.png) feature and extends it with a very powerful and flexible workflow in a modern modular Swift codebase.
 
 [Read more about its features...](https://synappser.github.io/apps/autoraise/)
 
