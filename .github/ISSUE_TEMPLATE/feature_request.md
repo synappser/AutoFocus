@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for AutoRaise
+about: Suggest an idea for AutoFocus
 title: ''
 labels: ''
 assignees: ''
