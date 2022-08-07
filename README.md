@@ -2,7 +2,7 @@
 
 For more context see https://github.com/synappser/AutoRaise/issues/8
 
-<img src="https://synappser.github.io/images/apps/autoraise.png" alt="Logo" width="128" />
+<img src="https://synappser.github.io/images/apps/autofocus.png" alt="Logo" width="128" />
 
 
 # AutoFocus
