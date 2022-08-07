@@ -15,11 +15,11 @@ This repository is a placeholder for its public beta issues and feature requests
 
 #### Is this a pre-release?
 
-Yes, AutoRaise is currently in public beta.
+Yes, AutoFocus is currently in public beta.
 
 #### Is it free to download?
 
-Yes, AutoRaise is free while it's in beta.
+Yes, AutoFocus is free while it's in beta.
 
 #### What's the purpose of the "Handle Desktop as a window" option?
 
@@ -39,4 +39,4 @@ Mac computer with an Intel or M1 processor (macOS 10.13+)
 
 ## Support
 
-To submit issues or feature requests, please head to the [Issues](https://github.com/synappser/AutoRaise/issues) page. You might first need to (freely) sign up to a GitHub account if you do not already have one.
+To submit issues or feature requests, please head to the [Issues](https://github.com/synappser/AutoFocus/issues) page. You might first need to (freely) sign up to a GitHub account if you do not already have one.
