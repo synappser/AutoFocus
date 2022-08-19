@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help improve AutoFocus
 title: ''
 labels: ''
-assignees: ''
+assignees: synappser
 
 ---
 
