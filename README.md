@@ -31,7 +31,7 @@ It's hard to explain just with words, watch the [introductory video](https://syn
 
 ## System Requirements
 
-Mac computer with an Intel or M1 processor (macOS 10.13+)
+Mac computer with an Apple silicon or Intel processor (macOS 11.0+)
 
 ## Settings
 
